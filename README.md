@@ -58,7 +58,9 @@ Testing Details:
 Please follow the steps mentioned below to clone the git repository, then build and execute the tests
 
 $ git clone git@github.com:mkarthick19/master.git
+
 $ cd master/
+
 $ mvn clean install
 
 Code Coverage Report:
