@@ -42,10 +42,15 @@ The input address is parsed using the parser that is obtained by using Regular E
 Implementation Details:
 
 We have used the following languages, tools and design patterns.
+
 Language:         Java
+
 Build Tool:       Maven
+
 Repository:       Git
+
 Code Coverage:    Jacoco
+
 Design Patterns : Factory, Strategy
 
 Testing Details:
